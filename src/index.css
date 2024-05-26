@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.bar{
+ background-image: linear-gradient(to right , purple , pink);
+
+
+}
+
+.endBar{
+
+background-image: linear-gradient(to right , red, orange);
+
+}
+
+.mainAbout{
+    background-image: linear-gradient(to right , rgb(255, 247, 99) , rgb(255, 228, 132));
+}
